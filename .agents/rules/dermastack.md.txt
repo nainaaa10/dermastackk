@@ -1,0 +1,16 @@
+
+# Dermastack Project Rules
+
+## Technology Stack
+- Backend: Python with FastAPI
+- Machine Learning: PyTorch
+- Database: MongoDB
+- Frontend: Next.js
+
+## Coding Guidelines
+- Write clean, readable, modular code.
+- Keep frontend and backend code organized separately.
+- Use environment variables for secrets and configuration.
+- Include error handling and input validation.
+- Explain how to install dependencies and run the project.
+- Do not hardcode passwords, API keys, or database credentials.
